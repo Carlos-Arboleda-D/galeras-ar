@@ -9,7 +9,7 @@ import qrMaracas from '../assets/images/qr-maracas.jpg';
 import qrTamborAlegre from '../assets/images/qr-tambor-alegre.jpg';
 import qrMonumento from '../assets/images/qr-monumento-algarroba.jpg';
 
-const APK_URL = '/downloads/GalerasAR.apk';
+const APK_URL = 'https://github.com/Carlos-Arboleda-D/galeras-ar/releases/download/v1.0.0/GalerasAR.apk';
 
 const pasos = [
   {

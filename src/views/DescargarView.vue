@@ -1,5 +1,5 @@
 <script setup>
-const APK_URL = '/downloads/GalerasAR.apk';
+const APK_URL = 'https://github.com/Carlos-Arboleda-D/galeras-ar/releases/download/v1.0.0/GalerasAR.apk';
 
 const requisitos = [
   {

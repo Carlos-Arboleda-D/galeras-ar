@@ -24,7 +24,3 @@ dist-ssr
 *.sw?
 
 .vercel
-
-# Large binary hosted as a GitHub Release asset instead (100MB+ blobs don't
-# belong in a git repo — GitHub itself would reject them past 100MB).
-public/downloads/
