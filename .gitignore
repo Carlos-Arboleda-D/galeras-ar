@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 
 .vercel
+
+# The Android app is hosted as a GitHub Release asset, not tracked in git
+# (it's 100MB+, which git/GitHub blobs reject outright).
+*.apk

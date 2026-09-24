@@ -4,7 +4,7 @@ const APK_URL = 'https://github.com/Carlos-Arboleda-D/galeras-ar/releases/downlo
 const requisitos = [
   {
     title: 'Android 8 o superior',
-    text: 'Compatible con ARCore',
+    text: 'Compatible con Vuforia Engine',
     icon: 'phone',
   },
   {
